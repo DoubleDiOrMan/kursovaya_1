@@ -1,0 +1,31 @@
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form1.resources
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Properties.Resources.resources
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.csproj.GenerateResource.cache
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\bin\Debug\Курсач 1.0.exe.config
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\bin\Debug\Курсач 1.0.exe
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\bin\Debug\Курсач 1.0.pdb
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form2.resources
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.exe
+C:\Users\danya\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.pdb
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\bin\Debug\Курсач 1.0.exe.config
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\bin\Debug\Курсач 1.0.exe
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\bin\Debug\Курсач 1.0.pdb
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.csproj.AssemblyReference.cache
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form1.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form2.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form3.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form5.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Properties.Resources.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.csproj.GenerateResource.cache
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.csproj.CoreCompileInputs.cache
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.exe
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач 1.0.pdb
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form6.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form7.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form4.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form8.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form9.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form10.resources
+D:\visual-проекты\source\repos\Курсач 1.0\Курсач 1.0\obj\Debug\Курсач_1._0.Form11.resources
